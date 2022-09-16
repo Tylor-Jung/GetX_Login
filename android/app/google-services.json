@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163022296066",
+    "project_id": "getx-login-882bb",
+    "storage_bucket": "getx-login-882bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163022296066:android:1ae249abf8612da115031b",
+        "android_client_info": {
+          "package_name": "com.example.getx_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163022296066-bf9mfa4s20mnsvhil1fnl8achb19k7c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfi1u4WjMQTTEcVEZjCBCz3gIzXHOR7kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163022296066-bf9mfa4s20mnsvhil1fnl8achb19k7c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
